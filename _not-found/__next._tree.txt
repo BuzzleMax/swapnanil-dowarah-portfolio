@@ -1,0 +1,2 @@
+:HL["/swapnanil-dowarah-portfolio/_next/static/chunks/13blnu4d7mma7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"gfR2uYzxbSxk6nS5xhUhJ"}
